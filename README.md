@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @max-liao
 - 👀 I’m interested in ... Fullstack dev
 - 🌱 I’m currently learning ... Angular, Haskell
-- 💞️ I’m looking to collaborate on ... writing software that interests me
+- 💞️ I’m looking to collaborate on ... software that interests me
 - 📫 How to reach me ... here on Github!
 
 <!---
